@@ -1,16 +1,34 @@
-{
-    "id":0,
-    "name": "Flaminense",
-    "cidade": "Marcapasso do Sul",
-    "titulos":[
-        {
-            "Marcapasso do Sul": 0,
-            "Copa Nacional": 0,
-            "Campeonato Nacional": 0,
-            "Taça Ouro": 0,
-            "Copa dos Campeões": 0,
-            "Supercopa Nacional": 0,
-            "Supercopa": 0
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "name": "Flaminense",
+        "cidade": "Marcapasso do Sul",
+        "titulos": [
+            {
+                "Marcapasso do Sul": 0,
+                "Copa Nacional": 0,
+                "Campeonato Nacional": 0,
+                "Taça Ouro": 0,
+                "Copa dos Campeões": 0,
+                "Supercopa Nacional": 0,
+                "Supercopa": 0
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "América",
+        "cidade": "Marcapasso do Sul",
+        "titulos": [
+            {
+                "Marcapasso do Sul": 0,
+                "Copa Nacional": 0,
+                "Campeonato Nacional": 0,
+                "Taça Ouro": 0,
+                "Copa dos Campeões": 0,
+                "Supercopa Nacional": 0,
+                "Supercopa": 0
+            }
+        ]
+    }
+]
