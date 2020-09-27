@@ -16,6 +16,10 @@ app.get('/data', (req,res)=>{
     const data = read();
     res.send(data);
 });
+app.get('/', (req,res)=>{
+    const data = read();
+    res.send(data);
+});
 
 
 app.listen(PORT, ()=>{
