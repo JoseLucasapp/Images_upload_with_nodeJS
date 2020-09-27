@@ -12,7 +12,7 @@ const read = () => {
 
 app.use(cors({origin: '*'}))
 
-app.get('/', (req,res)=>{
+app.get('/data', (req,res)=>{
     const data = read();
     res.send(data);
 });
