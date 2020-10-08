@@ -1,1 +1,1 @@
-<h3>This repository is only study</h3>
+<h3>This repository is only for study</h3>
