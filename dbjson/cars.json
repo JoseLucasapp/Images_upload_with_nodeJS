@@ -81,7 +81,7 @@
         {
             "nome":"Chevrolet Chevette",
             "preço":"de R$ 7.000 a R$ 15 mil",
-            "foto":"../images/chevette.jpg",
+            "foto":"../images/chevette.jpg"
         },
         {
             "nome":"Fiat 147",
