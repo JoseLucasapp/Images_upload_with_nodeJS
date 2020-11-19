@@ -3,8 +3,10 @@ const app = express();
 const router = express.Router();
 const fs = require('fs');
 const port = process.env.PORT || 3000;
+const cors = require('cors');
 
 app.use(express.json({extended: true}));
+app.use(cors());
 
 //funçao que escreve dados
 const readfile = () => {
