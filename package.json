@@ -2,9 +2,9 @@
   "name": "Images_upload_with_nodeJS",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "production": "node ./src/app.js"
   },
   "repository": {
     "type": "git",

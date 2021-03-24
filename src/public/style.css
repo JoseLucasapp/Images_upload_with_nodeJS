@@ -1,0 +1,46 @@
+body{
+    background-color: sandybrown;
+}
+
+.root{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    height: 80vh;
+    background-color: sienna;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+}
+.root form{
+    width: 50%;
+    height: 50%;
+    margin-top: 5%;
+    background-color: tan;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+}
+.root button{
+    width: 20%;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 40%;
+}
+.root input{
+    width: 70%;
+    height: 30px;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+.root img{
+    width: 75%;
+    height: 75%;
+    margin-top: 3%;
+    border-radius: 25px;
+}
