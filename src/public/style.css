@@ -1,5 +1,5 @@
 body{
-    background-color: sandybrown;
+    background-color: #b2bfb6;
 }
 
 .root{
@@ -7,7 +7,7 @@ body{
     margin-left: 10%;
     margin-top: 5%;
     height: 80vh;
-    background-color: sienna;
+    background-color: #9a9da7;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -17,7 +17,7 @@ body{
     width: 50%;
     height: 50%;
     margin-top: 5%;
-    background-color: tan;
+    background-color: #b2bfb6;
     display: flex;
     flex-direction: column;
     border-radius: 25px;
